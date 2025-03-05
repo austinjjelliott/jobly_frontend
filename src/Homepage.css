@@ -1,0 +1,28 @@
+/* Center the content and add spacing */
+div {
+  text-align: center;
+}
+
+/* Style the main heading */
+h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Style individual links */
+.Homepage a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #007bff;
+  margin: 0.5rem;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+/* Change background color on hover */
+.Homepage a:hover {
+  background-color: #0056b3;
+}
